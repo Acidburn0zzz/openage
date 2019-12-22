@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="40 40 950 260" height="260" width="950" version="1.1">
- <image height="220" width="220" x="60" y="60" xlink:href="crown.svg"/>
- <text y="230.73811" x="297.2269" fill="#000000">
-  <tspan style="letter-spacing:-10px" font-size="187.5px" y="230" x="290" font-family="Ubuntu" fill="black">openage</tspan>
- </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="950" height="260" version="1.1" viewBox="40 40 950 260"><image width="220" height="220" x="60" y="60" xlink:href="crown.svg"/><text x="297.227" y="230.738" fill="#000"><tspan x="290" y="230" fill="#000" font-family="Ubuntu" font-size="187.5" letter-spacing="-10">openage</tspan></text></svg>
